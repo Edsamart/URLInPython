@@ -7,7 +7,7 @@ import webbrowser
 def main():
     os.system('clear')
     print("URLInPython Version 1.5")
-    print("©Edward Samuel 2024. All rights reserved.")
+    print("©Edsamart 2024. All rights reserved.")
     print("---------------------------------------------------------------------------")
     print("What do you want to do?")
     print("1. Use URLInPython")
@@ -28,7 +28,7 @@ def main():
 def url():
     os.system('clear')
     print("URLInPython Version 1.5")
-    print("©Edward Samuel 2024. All rights reserved.")
+    print("©Edsamart 2024. All rights reserved.")
     print("---------------------------------------------------------------------------")
     link = input("Enter the URL (Make sure to include <<https://>> or <<http://>>): ")
     time.sleep(2)
